@@ -1,5 +1,5 @@
 # LadyUmbrella-CoverSystem
-A showcase of the Cover System I created for the Unreal Engine 5 game "Lady Umbrella".
+A showcase of the Cover System I created for the Unreal Engine 5 game "[Lady Umbrella](https://store.steampowered.com/app/3956890/Lady_Umbrella/)".
 
 <br/>
 
